@@ -1,0 +1,1 @@
+print "Hello" #Quand on écrit print c'est pour afficher 
